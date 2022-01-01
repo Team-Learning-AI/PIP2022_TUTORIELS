@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-# Bienvenue sur le GitHub de tutos PIP2022
+# Bienvenue sur le GitHub de tutoriels et documentations PIP2022
 
 <!-- TABLE OF CONTENTS -->
 <details>
