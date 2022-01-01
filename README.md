@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="IMAGES/UPSID2.jpg" alt="Logo" "height="230">
+    <img src="IMAGES/UPSID2.jpg" alt="Logo" "height="500">
 </div>
 
 # Bienvenue sur le GitHub de tutoriels et documentations PIP2022
