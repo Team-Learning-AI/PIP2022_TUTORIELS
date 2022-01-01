@@ -2,8 +2,6 @@
     <img src="IMAGES/UPSID2.jpg" alt="Logo" >
 </div>
 
-<br/>
-<br/>
 
 # Bienvenue sur le GitHub de tutoriels et documentations PIP2022
 
