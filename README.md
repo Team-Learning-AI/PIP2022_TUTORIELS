@@ -9,7 +9,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#description-du-groupe">Description du groupe</a>
+      <a href="#Documentation">Documentation</a>
     </li>
     <li>
       <a href="#travail-preparatoire">Travail préparatoire</a>
