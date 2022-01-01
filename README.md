@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="IMAGES/UPSID.jfif" alt="Logo" >
+    <img src="images/logoSIDbigdata.png" alt="Logo" >
 </div>
 
 <br/>
