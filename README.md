@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="IMAGES/UPSID2.jpeg" alt="Logo" >
+    <img src="IMAGES/UPSID2.jpg" alt="Logo" >
 </div>
 
 <br/>
