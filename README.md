@@ -1,5 +1,11 @@
+<div align="center">
+    <img src="IMAGES/UPSID.jfif" alt="Logo" >
+</div>
 
-# Bienvenue sur le GitHub de tutos du projet interpromo_2022 SID
+<br/>
+<br/>
+
+# Bienvenue sur le GitHub de tutos PIP2022
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -14,10 +20,8 @@
 </details>
 <br/>
 
-## Description du groupe
 
-Le but est de construire un générateur de données qui a les mêmes caractéristiques que le jeu de données initial sans les données originelles. 
-
-## Travail preparatoire 
-Vous trouverez le travail prépartoire dans le [dossier](/travail_preparatoire) prévu à cet effet. Il est constituté de notebooks, documentations, lectures et contient les Brown papers que nous avons réalisés. 
+## Contenu
+Vous trouverez des tutos et autres documents pour faciliter et encadrer vos développements.Il est constituté de notebooks, documentations, lectures.Vous pouvez étoffer ce gihub de tutoriels et documentations en 
+m'envoyant des pulls requests. 
 
