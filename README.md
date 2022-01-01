@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="images/logoSIDbigdata.png" alt="Logo" >
-</div>
-
-<br/>
-<br/>
 
 # Bienvenue sur le GitHub du G5 
 
