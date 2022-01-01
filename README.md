@@ -1,11 +1,5 @@
-<div align="center">
-    <img src="images/logoSIDbigdata.png" alt="Logo" >
-</div>
 
-<br/>
-<br/>
-
-# Bienvenue sur le GitHub du G5 
+# Bienvenue sur le GitHub de tutos du projet interpromo_2022 SID
 
 <!-- TABLE OF CONTENTS -->
 <details>
