@@ -41,7 +41,7 @@ Pour intégrer un graphique un développeur du groupe 2 va :
 
 * **étape 4** :se positionner sur le script *g2_template.py* pour appeller le graphique et son composant texte et les intégrer au dashboard. Au moment de l'intégration de vos graphiques , vous devez choisir une des trois dispositions prédefinies.
 <div align="center">
-    <img src="../IMAGES/dispo_pip22.png" height="250" >
+    <img src="../IMAGES/dispo_pip22.png" height="400" width="400" >
 </div>
 Un développeur choisissant la disposition 2 va insérer son code dans l'espace prévu à cet effet :<br/>
 
