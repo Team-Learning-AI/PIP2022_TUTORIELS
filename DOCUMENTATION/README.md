@@ -1,4 +1,3 @@
-# Documentation 
 
 Dans ce dossier vous trouverez 2 documents la charte qualité et la charte graphique accompagné d'un manuel d'utilisation.  
 
