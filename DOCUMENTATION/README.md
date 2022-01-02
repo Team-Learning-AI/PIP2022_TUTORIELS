@@ -18,13 +18,13 @@ Le manuel explique l'architecture de la plateforme DASH/PLOTLY et comment s'y pr
 <div align="center">
     <img src="../IMAGES/archi_pip22.png" height="250" >
 </div>
-*  https://github.com/hadda-hassan/PIP2022_PREPARATOIRE
+
 * **app.py** est le script python de lancement
 * **utils.py** est le fichier de construction du header de tous les fichiers. Aucune modification n'est à faire ici.
 * **graphes** est le dossier contenant les scripts python pour le développement de vos graphiques. Il y a un script par groupe.
 * **text** est le dossier contenant les scripts python pour l'implémentation des élements de texte qui accompagnent vos graphiques. Il y a un script par groupe.
 * **pages** est le dossier contenant les scripts python qui appellent vos graphiques et textes. Il y a un script par groupe.
-
+*  https://github.com/hadda-hassan/PIP2022_PREPARATOIRE
 ## Workflow
 Explicitons le workflow avec un exemple :
 Pour intégrer un graphique un développeur du groupe 2 va : 
