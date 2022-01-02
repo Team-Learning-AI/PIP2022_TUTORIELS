@@ -20,10 +20,10 @@ Vous trouverez ici des documents pour faciliter et encadrer vos développements.
 
 ## Documentation 
 Dans le dossier documentation vous trouverez les documents suivants :
-* **Charte qualité
-* **Manuel d'utlisation du dashboard et charte graphique
+* **Charte qualité**
+* **Manuel d'utlisation du dashboard et charte graphique**
 
 ## Tutoriels
 Dans le dossier tutoriels vous trouverez des notebooks tuto pour :
-* **plotly : librairie principale pour développer vos graphiques
-* **lime : librairie pour l'interprétabilité de vos modèles. Lime fournit une compréhension qualitative entre les variables d'entrée et la réponse.
+* **plotly** : librairie principale pour développer vos graphiques
+* **lime** : librairie pour l'interprétabilité de vos modèles. Lime fournit une compréhension qualitative entre les variables d'entrée et la réponse.
