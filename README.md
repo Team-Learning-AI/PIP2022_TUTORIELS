@@ -21,8 +21,8 @@ Vous trouverez ici des documents pour faciliter et encadrer vos développements.
 ## Documentation 
 Dans le dossier documentation vous trouverez les documents suivants :
 * **Charte qualité**
-* **Manuel d'utlisation du dashboard et charte graphique**
-Nous avons explicité ici l'architecture et le workflow pour intégrer un graphique avec un exemple
+* **Manuel d'utlisation du dashboard et charte graphique**<br/>
+Nous avons explicité dans un 'Readme' additionnel l'architecture et le workflow pour intégrer un graphique avec un exemple
 
 ## Tutoriels
 Dans le dossier tutoriels vous trouverez des notebooks tuto pour :
