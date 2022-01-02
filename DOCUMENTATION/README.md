@@ -28,7 +28,7 @@ Le manuel explique l'architecture de la plateforme DASH/PLOTLY et comment s'y pr
 Explicitons le workflow avec un exemple :
 Pour intégrer un graphique un développeur du groupe 2 va : 
 * **étape 1** : lancer l'application avec app.py
-* **étape 2** : se positionner sur le script **graphe_g2.py** et implémenter le graphique de son choix.Par exemple ici 
+* **étape 2** : se positionner sur le script **graphe_g2.py** et implémenter le graphique de son choix.Par exemple ici un "line chart plotly"<br/>
 ` df = px.data.stocks()
 fig4 = px.line(df, x='date', y="GOOG")`
 * **étape 3** : se positionner sur le script **txt_g2.py** et implémenter les élements de texte accompagnant son texte <br/>
