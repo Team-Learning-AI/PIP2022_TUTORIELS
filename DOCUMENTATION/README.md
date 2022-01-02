@@ -44,13 +44,13 @@ fig4 = px.line(df, x='date', y="GOOG")`
     <img src="../IMAGES/dispo_pip22.png" height="250" >
 </div>
 Un développeur choisissant la disposition 2 va insérer son code dans l'espace prévu à cet effet :<br/>
-                      `html.Div([ ### les 2graphes
+                        `html.Div([ ### les 2graphes
                         html.Div([dcc.Graph(figure=graphe_g2.fig4),],className="six columns",), ## graphe fig1           
                         html.Div([dcc.Graph(figure=graphe_g2.fig3),],className="six columns",), ## graphe fig3
                         ],
-                        className="row ",),
+                        className="row ",),`
         
-                   html.Div([
+                   `html.Div([
                             ### les deux cases textes.
                             html.Div([txt_g2.cont_txt_1] ,className="six columns",), 
                             html.Div([txt_g2.cont_txt_1],className="six columns",), 
