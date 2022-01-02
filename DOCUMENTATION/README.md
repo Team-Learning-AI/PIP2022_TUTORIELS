@@ -61,7 +61,7 @@ Un développeur choisissant la disposition 2 va insérer son code dans l'espace 
 
 ## Rendu 
 <div align="center">
-    <img src="../IMAGES/rendu_pip22.png" height="250" >
+    <img src="../IMAGES/rendu_pip22.png" height="850" width="200">
 </div>
 
 <br/>
