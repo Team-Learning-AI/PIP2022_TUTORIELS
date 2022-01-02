@@ -23,8 +23,8 @@ Dans le dossier documentation vous trouverez les documents suivants :
 * **Charte qualité**
 * **Manuel d'utlisation du dashboard et charte graphique**<br/>
 Nous avons explicité dans un 'Readme' additionnel l'architecture et le workflow pour intégrer un graphique avec un exemple
-* URL du repository d'origin contenant l'application est  https://github.com/hadda-hassan/PIP2022_PREPARATOIRE
+* **URL** du repository d'origin contenant l'application est  https://github.com/hadda-hassan/PIP2022_PREPARATOIRE
 ## Tutoriels
 Dans le dossier tutoriels vous trouverez des notebooks tuto pour :
-* **plotly** : librairie principale pour développer vos graphiques
-* **lime** : librairie pour l'interprétabilité de vos modèles. Lime fournit une compréhension qualitative entre les variables d'entrée et la réponse.
+* **PLOTLY** : librairie principale pour développer vos graphiques
+* **LIME** : librairie pour l'interprétabilité de vos modèles. Lime fournit une compréhension qualitative entre les variables d'entrée et la réponse.
