@@ -12,7 +12,7 @@
       <a href="#Documentation">Documentation</a>
     </li>
     <li>
-      <a href="#travail-preparatoire">Travail préparatoire</a>
+      <a href="#Tutoriels">Tutoriels</a>
     </li>
 </details>
 <br/>
@@ -22,6 +22,7 @@ Vous trouverez ici des documents pour faciliter et encadrer vos développements.
 Dans le dossier documentation vous trouverez les documents suivants :
 * **Charte qualité**
 * **Manuel d'utlisation du dashboard et charte graphique**
+Nous avons explicité ici l'architecture et le workflow pour intégrer un graphique avec un exemple
 
 ## Tutoriels
 Dans le dossier tutoriels vous trouverez des notebooks tuto pour :
