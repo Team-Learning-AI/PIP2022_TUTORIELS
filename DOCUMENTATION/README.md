@@ -59,7 +59,10 @@ Un développeur choisissant la disposition 2 va insérer son code dans l'espace 
                         ],
                         className="row ",),`
 
-
+## Rendu 
+<div align="center">
+    <img src="../IMAGES/rendu_pip22.png" height="250" >
+</div>
 
 <br/>
 <br/>
