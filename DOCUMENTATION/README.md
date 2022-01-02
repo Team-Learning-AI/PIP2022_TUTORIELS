@@ -60,6 +60,10 @@ Un développeur choisissant la disposition 2 va insérer son code dans l'espace 
 
 ## Rendu 
 <div align="center">
+    <img src="../IMAGES/rendu2_pip22.png" height="850" width="850">
+</div>
+## Rendu annoté
+<div align="center">
     <img src="../IMAGES/rendu_pip22.png" height="850" width="850">
 </div>
 
