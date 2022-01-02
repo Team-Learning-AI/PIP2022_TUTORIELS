@@ -31,7 +31,7 @@ Pour intégrer un graphique un développeur du groupe 2 va :
 * **étape 2** : se positionner sur le script **graphe_g2.py** et implémenter le graphique de son choix.Par exemple ici 
 ` df = px.data.stocks()
 fig4 = px.line(df, x='date', y="GOOG")`
-* **étape 3** : se positionner sur le script **txt_g2.py** et implémenter les élements de texte accompagnant son texte 
+* **étape 3** : se positionner sur le script **txt_g2.py** et implémenter les élements de texte accompagnant son texte <br/>
 ` cont_txt_1 = dbc.Row([
     dbc.Col(dbc.Card( [dbc.CardBody( [html.H4('Remarques explication sur le graphe ', className='card-title', style=CARD_TEXT_STYLE),
                         html.P('Sample text bla bla bla bla bla bala 1.', style=CARD_TEXT_STYLE),]),]),md=12),
