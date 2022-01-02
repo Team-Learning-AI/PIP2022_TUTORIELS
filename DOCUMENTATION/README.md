@@ -6,17 +6,16 @@ Dans ce dossier vous trouverez 2 documents la charte qualité et la charte graph
 Ce document indique les conventions de codage à respecter par l'ensemble des groupes.
 
 # Charte graphique et manuel d'utilsation 
-## Charte graphique 
-Ce document indique les conventions à respecter principalement au moment de création de vos graphiques sur le dashboard.
+ 
+La charte indique les conventions à respecter principalement au moment de création de vos graphiques sur le dashboard.
 
-## Manuel d'utilisation 
 Le manuel explique l'architecture de la plateforme DASH/PLOTLY et comment s'y prendre pour intégrer vos graphiques.
-### Arborescence
+## Arborescence
 <div align="center">
     <img src="../IMAGES/arbo_pip22.png" height="250" >
 </div>
 
-### Architecture
+## Architecture
 <div align="center">
     <img src="../IMAGES/archi_pip22.png" height="250" >
 </div>
@@ -27,18 +26,19 @@ Le manuel explique l'architecture de la plateforme DASH/PLOTLY et comment s'y pr
 * **text** est le dossier contenant les scripts python pour l'implémentation des élements de texte qui accompagnent vos graphiques. Il y a un script par groupe.
 * **pages** est le dossier contenant les scripts python qui appellent vos graphiques et textes. Il y a un script par groupe.
 
-### Workflow
+## Workflow
 Explicitons le workflow avec un exemple :
 Pour intégrer un graphique un développeur du groupe 2 va : 
 * **étape 1** : lancer l'application avec app.py
 * **étape 2** : se positionner sur le script *graphe_g2.py* et implémenter le graphique de son choix.Par exemple ici un "line chart plotly"<br/>
 ` df = px.data.stocks()
 fig4 = px.line(df, x='date', y="GOOG")`
-* **étape 3** : se positionner sur le script *txt_g2.py* et implémenter les élements de texte accompagnant son texte <br/>
+* **étape 3** : se positionner sur le script *txt_g2.py* et implémenter les élements de texte accompagnant son texte : <br/>
 ` cont_txt_1 = dbc.Row([
     dbc.Col(dbc.Card( [dbc.CardBody( [html.H4('Remarques explication sur le graphe ', className='card-title', style=CARD_TEXT_STYLE),
                         html.P('Sample text bla bla bla bla bla bala 1.', style=CARD_TEXT_STYLE),]),]),md=12),
 ])` 
+
 * **étape 4** :se positionner sur le script *g2_template.py* pour appeller le graphique et son composant texte et les intégrer au dashboard. Au moment de l'intégration de vos graphiques , vous devez choisir une des trois dispositions prédefinies.
 <div align="center">
     <img src="../IMAGES/dispo_pip22.png" height="250" >
@@ -56,6 +56,7 @@ Un développeur choisissant la disposition 2 va insérer son code dans l'espace 
                             html.Div([txt_g2.cont_txt_1],className="six columns",), 
                         ],
                         className="row ",),`
+
 
 
 <br/>
