@@ -31,8 +31,8 @@ Explicitons le workflow avec un exemple :
 Pour intégrer un graphique un développeur du groupe 2 va : 
 * **étape 1** : lancer l'application avec app.py
 * **étape 2** : se positionner sur le script *graphe_g2.py* et implémenter le graphique de son choix.Par exemple ici un "line chart plotly"<br/>
-` df = px.data.stocks()
-fig4 = px.line(df, x='date', y="GOOG")`
+` df = px.data.stocks()`
+`fig4 = px.line(df, x='date', y="GOOG")`
 * **étape 3** : se positionner sur le script *txt_g2.py* et implémenter les élements de texte accompagnant son texte : <br/>
 ` cont_txt_1 = dbc.Row([
     dbc.Col(dbc.Card( [dbc.CardBody( [html.H4('Remarques explication sur le graphe ', className='card-title', style=CARD_TEXT_STYLE),
