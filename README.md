@@ -28,3 +28,4 @@ Nous avons explicité dans un 'Readme' additionnel l'architecture et le workflow
 Dans le dossier tutoriels vous trouverez des notebooks tuto pour :
 * **PLOTLY** : librairie principale pour développer vos graphiques
 * **LIME** : librairie pour l'interprétabilité de vos modèles. Lime fournit une compréhension qualitative entre les variables d'entrée et la réponse.
+* Liens vers tutos additionnels 
