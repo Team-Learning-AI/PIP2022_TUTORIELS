@@ -2,7 +2,7 @@
     <img src="IMAGES/UPSID2.jpg" alt="Logo" "height="500">
 </div>
 
-# Bienvenue sur le GitHub de tutoriels et documentations PIP2022
+# Bienvenue sur le gitHub de tutoriels et documentations PIP2022
 
 <!-- TABLE OF CONTENTS -->
 <details>
